@@ -2,6 +2,28 @@
 
 A command line utility to query the Ethereum Name Service
 
+## Install
+
+Clone this repository:
+```shell
+git clone https://github.com/darrenlangley/enslookup.git
+```
+
+Change into directory:
+```shell
+cd enslookup
+```
+
+Install dependencies:
+```shell
+npm install
+```
+
+If you are on Linux or macOS, make the `enslookup` executable:
+```shell
+chmod +x enslookup
+```
+
 ## Usage
 
 ```shell
